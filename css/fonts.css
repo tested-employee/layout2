@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Rudik-Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/Rudik-Bold.woff2") format("woff2"), url("../fonts/Rudik-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Rudik-Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/Rudik-Medium.woff2") format("woff2"), url("../fonts/Rudik-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Rudik-Regular";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/Rudik-Regular.woff2") format("woff2"), url("../fonts/Rudik-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Poppins-medium";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/Poppins-medium.woff2") format("woff2"), url("../fonts/Poppins-medium.woff") format("woff");
+}
+/*# sourceMappingURL=fonts.css.map */
